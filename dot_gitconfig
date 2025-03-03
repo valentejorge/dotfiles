@@ -1,4 +1,5 @@
 [user]
+    name = valentejorge
     email = 62824468+valentejorge@users.noreply.github.com
 [credential]
     helper = cache --timeout=3600

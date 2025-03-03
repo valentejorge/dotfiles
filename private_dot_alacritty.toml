@@ -29,10 +29,10 @@ foreground = "#ebdbb2"
 TERM = "xterm-256color"
 
 [font]
-normal = { family = "ttf-hack-nerd", style = "Regular" }
-bold   = { family = "ttf-hack-nerd", style = "Bold" }
-italic = { family = "ttf-hack-nerd", style = "Italic" }
-bold_italic = { family = "ttf-hack-nerd", style = "Bold Italic" }
+normal = { family = "HackNerdFontMono", style = "Regular" }
+bold   = { family = "HackNerdFontMono", style = "Bold" }
+italic = { family = "HackNerdFontMono", style = "Italic" }
+bold_italic = { family = "HackNerdFontMono", style = "Bold Italic" }
 size = 16
 
 [font.glyph_offset]
