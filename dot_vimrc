@@ -95,6 +95,8 @@ nnoremap <leader>s :source %<Cr>
 nnoremap <leader>; A;<Esc>
 nnoremap <leader>: A:<Esc>
 
+nnoremap <leader>pv :Ex<Cr>
+
 "run *.py .
         "this is to bash↓
 "nnoremap <leader>r :!clear && python3 %<Cr>
